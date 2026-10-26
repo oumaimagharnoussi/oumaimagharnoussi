@@ -71,11 +71,15 @@
 
 `C#` · `ASP.NET` · `REST API` · `JWT` · `Stripe` · `Firebase` · `Firestore` · `Android` · `Power BI` · `SEO/SEA` · `Google Analytics` · `Google Search Console` · `Scrum`
 
-### 🐍 My Contribution Activity
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation"/>
+---
+
+## 🐍 My GitHub Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake Animation" width="100%"/>
 </p>
+
 
 ---
 
