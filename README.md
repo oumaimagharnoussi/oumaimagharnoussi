@@ -28,48 +28,42 @@
 ---
 
 
-### 💻 Languages · Frameworks · Tools
+## 💻 Languages · Frameworks · Tools
 
+### 👩‍💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,react,js,ionic,nodejs,express,java,spring,php,symfony,python,django,cs,cpp,dotnet,html,css&perline=9" alt="Programming languages and frameworks"/>
+  <img src="https://skillicons.dev/icons?i=java,js,php,cpp,cs,python&perline=10" alt="Programming Languages"/>
 </p>
 
+### ⚙️ Frameworks & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,gitlab,docker,jenkins,github,firebase,android&perline=10" alt="Databases, DevOps and mobile development"/>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,symfony,django,angular,ionic,dotnet&perline=10" alt="Frameworks and Technologies"/>
 </p>
 
-**Salesforce CRM**
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=oracle,mysql,mongodb,postgres&perline=10" alt="Databases"/>
+</p>
+
+`Oracle DB` · `MySQL` · `MongoDB` · `PostgreSQL` · `SQL Server` · `SOQL`
+
+### ☁️ Salesforce CRM
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-1798C1?style=flat-square)
-![LWC](https://img.shields.io/badge/Lightning_Web_Components-1798C1?style=flat-square)
-![OmniStudio](https://img.shields.io/badge/OmniStudio-6B5CE7?style=flat-square)
+![LWC](https://img.shields.io/badge/LWC-1798C1?style=flat-square)
 ![Aura](https://img.shields.io/badge/Aura-1798C1?style=flat-square)
 ![Visualforce](https://img.shields.io/badge/Visualforce-1798C1?style=flat-square)
-![Salesforce Flow](https://img.shields.io/badge/Salesforce_Flow-00A1E0?style=flat-square)
-![Batch Apex](https://img.shields.io/badge/Batch_Apex-1798C1?style=flat-square)
-![SOQL](https://img.shields.io/badge/SOQL-1798C1?style=flat-square)
+![OmniStudio](https://img.shields.io/badge/OmniStudio_(Vlocity)-6B5CE7?style=flat-square)
 
-**Databases**
+`Apex` · `LWC` · `Aura` · `Visualforce` · `OmniStudio (Vlocity)` · `Flows` · `Triggers` · `Batch Apex`
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white)
+### 🚀 DevOps & Version Control
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,gitlab&perline=10" alt="DevOps and Version Control"/>
+</p>
 
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square)
-
-**Additional Technologies & Skills**
-
-`C#` · `ASP.NET` · `REST API` · `JWT` · `Stripe` · `Firebase` · `Firestore` · `Android` · `Power BI` · `SEO/SEA` · `Google Analytics` · `Google Search Console` · `Scrum`
-
+`Docker` · `Jenkins` · `Git` · `GitLab` · `CI/CD Pipelines`
 
 ### 📊 GitHub Statistics
 
