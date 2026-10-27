@@ -18,11 +18,13 @@
 
 ## 👩‍💻 About me
 
-- 💼 **Web & Mobile Development Engineer** at **PROMED Group** (Tunis) and **freelance full-stack developer** (remote).
-- ☁️ Former **Salesforce Developer** at **ASSA Associates**: Apex, LWC, OmniStudio, Flows.
-- 🎓 Software Engineering degree from **TEK-UP University** (2023).
-- 🚀 I build web and mobile applications end to end: **Java / Spring Boot microservices, Angular, React, Node.js, Android, .NET and Salesforce**, with a growing focus on **AI integration and DevOps**.
-- 🌍 Based in Tunis, open to **remote work and relocation**. Arabic · French · English · German (beginner).
+### Software Engineer | Full Stack Developer
+
+💻 Software Engineer passionate about building scalable applications and solving real-world problems through technology.
+
+🚀 Interested in **Java, Spring Boot Microservices, Angular, React, Node.js, Android Development, .NET, Salesforce, AI Integration, and DevOps**.
+
+🌱 Always learning, building web and mobile applications, and exploring modern software architectures.
 
 ---
 
